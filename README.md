@@ -1,1 +1,3 @@
-# final-fayiah-blog-project-2022-
+# COMPLETE CMS BLOG PROJECT DEVELOPED WITH PHP, MYSQL and phpMyAdmin
+
+### LIVE WEBSITE: https://powliberia.com
