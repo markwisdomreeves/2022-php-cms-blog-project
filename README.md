@@ -1,3 +1,3 @@
-#### COMPLETE CMS BLOG PROJECT DEVELOPED WITH PHP, MYSQL and phpMyAdmin
+#### Complete CMS Blog developed with PHP and MYSQL.
 
 ##### LIVE WEBSITE: https://powliberia.com
